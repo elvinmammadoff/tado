@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js" lang="en-US">
+<html class="js" lang="en-US">
     
 <head>
     <!-- META TAGS -->
@@ -7,37 +7,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <!-- TITLE -->
-    <title>TADO | Vertical Slider</title>
+    <title>TADO | Split Screen Slider</title>
 
     <!-- FAVICON -->
     <link href="images/favicon.ico" rel="shortcut icon">
 
     <!-- STYLESHEETS -->
-    <link href="fonts/fonts.css" rel="stylesheet"/>
-    <link rel="stylesheet" href="css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="css/style.min.css">
+    <link rel="stylesheet" href="fonts/fonts.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/ionicons.min.css">
+    <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="css/portfolio_sliders.min.css">
     <link rel="stylesheet" href="css/swiper.css">
-    <link rel="stylesheet" href="css/lightgallery.min.css"/>
-    <link rel="stylesheet" href="css/ionicons.min.css"/>
-    <link rel="stylesheet" href="css/style.min.css"/>
-    <link rel='stylesheet' href='css/portfolio_sliders.min.css'/>
-    <link rel="stylesheet" href="css/custom.css"/>
-    <link rel="stylesheet" href="css/tado.min.css"/>
+    <link rel="stylesheet" href="css/lightgallery.min.css">
+    <link rel="stylesheet" href="css/full_screen.min.css">
+    <link rel="stylesheet" href="css/tado.min.css">
 
     <!--[if lt IE 9]>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+
 </head>
+
+<body>
 <!-- PRELOADER -->
 <div class="preloader-text">
     <div class="text-wrap">tado</div>
     <span>loading...</span>
 </div>
 <!-- /PRELOADER -->
-<!-- MAIN WRAPPER -->
-<div class="main-wrapper ">
-    <div class="header_top_bg dark header_trans-fixed menu_light_text">
+<!-- MAIN_WRAPPER -->
+<div class="main-wrapper" data-sound="/audio" data-top="992">
+    <div class="header_top_bg position-fixed bg-transparent z-20 w-100">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-xs-12">
@@ -53,7 +57,7 @@
                         </a>
                         <!-- /MOB MENU ICON -->
                         <!-- NAVIGATION -->
-                        <nav id="topmenu" class="topmenu">
+                        <nav id="topmenu" class="topmenu bg-transparent">
                             <a href="javascript:void(0)" class="mob-nav-close">
                                 <span>close</span>
                                 <div class="hamburger">
@@ -391,7 +395,7 @@
                             <div class="f-right">
                                 <div class="search-icon-wrapper">
                                     <i class="ion-ios-search open-search"></i> 
-                                    <div class="site-search dark" id="search-box">
+                                    <div class="site-search" id="search-box">
                                         <div class="close-search">
                                             <span class="line"></span>
                                             <span class="line"></span>
@@ -415,7 +419,7 @@
                         </nav>
                         <!-- NAVIGATION -->
                         <!-- ABOUT SECTION-->
-                        <div class="about-mob-section-wrap dark">
+                        <div class="about-mob-section-wrap">
                             <div class="about-hamburger">
                                 <span class="line"></span>
                                 <span class="line"></span>
@@ -493,60 +497,73 @@
             </div>
         </div>
     </div>
-    <div class="container-full">
-        <div class="hero">
-            <div class="row">
-                <div class="col-sm-12">
-                    <div class="portfolio-slider-wrap vertical_slider">
-                        <div class="outer-swiper-wrapper">
-                            <div class="img-overlay"></div>
-                            <div class="swiper-container-vert-slider"
-                                 data-autoplay="5000"
-                                 data-speed="1500" data-loop="1">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <img src="images/Photo-14.jpg"
-                                             class="s-img-switch" alt=""/>
-                                        <div class="container wrap-cont">
-                                            <div class="wrap-text">
-                                                <div class="subtitle">May 21 | Restaurant | 17:00 H</div>
-                                                <div class="title">Samantha & Michelle | Our Forever
-                                                </div>
-                                                <a href="#" class="a-btn-4" target="_self">See more</a>
-                                            </div>
-                                        </div>
+    <div class="container-fluid split-conte no-padd">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="portfolio-slider-wrap split_slider">
+                    <div class="split-wrapper" data-colors="#fcf9f6,#fcf9f6,#fcf9f6">
+                        <div class="split-ms-left ms-left">
+                            <div class="split-ms-section ms-section ms-table">
+                                <div class="text-wrapper">
+                                    <span class="author">Starategic Solutions</span>
+                                    <div class="title">
+                                        <a href="#" target="_self">Planning by a vision  gains strength</a>
                                     </div>
-                                    <div class="swiper-slide">
-                                        <img src="images/Photo-15.jpg"
-                                             class="s-img-switch" alt=""/>
-                                        <div class="container wrap-cont">
-                                            <div class="wrap-text">
-                                                <div class="subtitle">May 21 | Restaurant | 17:00 H</div>
-                                                <div class="title">Angela & David | Traditional Wedding
-                                                </div>
-                                                <a href="#" class="a-btn-4" target="_self">See more</a>
-                                            </div>
-                                        </div>
+                                    <div class="descr">
+                                        Success is no accident. It is hard work, perseverance, learning,
+                                        studying, sacrifice and most of all, love of what you are doing or
+                                        learning to do.
                                     </div>
-                                    <div class="swiper-slide">
-                                        <img src="images/Photo-16.jpg"
-                                             class="s-img-switch" alt=""/>
-                                        <div class="container wrap-cont">
-                                            <div class="wrap-text">
-                                                <div class="subtitle">May 21 | Restaurant | 17:00 H</div>
-                                                <div class="title">Fluena & Richard | Made with love
-                                                </div>
-                                                <a href="#" class="a-btn-4" target="_self">See more</a>
-                                            </div>
-                                        </div>
-                                    </div>
+                                    <a href="#" class="a-btn" target="_self">expert guidance</a>
                                 </div>
-                                <!-- Add Arrows -->
-                                <div class="swiper-button swiper-button-next"></div>
-                                <div class="swiper-button swiper-button-prev"></div>
+                            </div>
+                            <div class="split-ms-section ms-section ms-table">
+                                <div class="text-wrapper">
+                                    <span class="author">About Our Company</span>
+                                    <div class="title">
+                                        <a href="#" target="_self">Helping Businesses Thrive Every Day</a>
+                                    </div>
+                                    <div class="descr">
+                                        At the heart of what we do is a commitment to helping businesses achieve sustainable growth. Our tailored strategies and expert guidance empower organizations to overcome challenges, seize opportunities
+                                    </div>
+                                    <a href="#" class="a-btn" target="_self">discover more</a>
+                                </div>
+                            </div>
+                            <div class="split-ms-section ms-section ms-table">
+                                <div class="text-wrapper">
+                                    <span class="author">Focused on Goals</span>
+                                    <div class="title">
+                                        <a href="#" target="_self">Advisory by a leaders shapes features</a>
+                                    </div>
+                                    <div class="descr">
+                                        Business consulting involves providing expert advice to help businesses improve their performance and grow. Consultants offer services
+                                    </div>
+                                    <a href="#" class="a-btn" target="_self">expert guidance</a>
+                                </div>
                             </div>
                         </div>
-
+                        <div class="split-ms-right ms-right">
+                            <div class="split-ms-section ms-section ms-table">
+                                <div class="img-wrap s-back-switch">
+                                    <img src="https://html.nextwpcook.com/fingo/assets/img/banner/banner-1.jpg" alt=""
+                                         class="s-img-switch">
+                                </div>
+                            </div>
+                            <div class="split-ms-section ms-section ms-table">
+                                <div class="img-wrap s-back-switch">
+                                    <img src="https://html.nextwpcook.com/fingo/assets/img/banner/banner-2.jpg" alt=""
+                                         class="s-img-switch">
+                                </div>
+                            </div>
+                            <div class="split-ms-section ms-section ms-table">
+                                <div class="img-wrap s-back-switch">
+                                    <img src="https://html.nextwpcook.com/fingo/assets/img/banner/banner-3.jpg" alt=""
+                                         class="s-img-switch">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="horizontal"></div>
+                        <div class="vertical"></div>
                     </div>
                 </div>
             </div>
@@ -554,27 +571,15 @@
     </div>
 </div>
 <!-- /MAIN WRAPPER -->
-<!-- FOOTER -->
-<footer id="footer" class=" fix-bottom modern">
-    <div class="footer-bottom-wrap no-widgets">
-        <div class="container">
-            <div class="row flex-wrap">
-                <div class="copyright col-xs-12 text-center ">
-                    TADO ©2025. With love by <a href="https://themeforest.net/user/alissio">ALISSIO</a></div>
-            </div>
-        </div>
-    </div>
-</footer>
-<!-- /FOOTER -->
 
 <!-- JAVASCRIPTS -->
-<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
-<script type="text/javascript" src="js/tadolazy.min.js"></script>
-<script type="text/javascript" src="js/lightgallery.min.js"></script>
-<script type="text/javascript" src="js/script3860.js?v=1"></script>
-<script type="text/javascript" src="js/scripts.js"></script>
-<script type="text/javascript" src="js/swiper.min.js"></script>
-<script type="text/javascript" src="js/imagesloaded.min.js"></script>
-<script type="text/javascript" src="js/portfolio_sliders1b26.js?v2"></script>
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/jquery.multiscroll.min.js"></script>
+<script src="js/portfolio_sliders.js"></script>
+<script src="js/lightgallery.min.js"></script>
+<script src="js/script.js"></script>
+<script src="js/scripts.js"></script>
+<script src="js/lib/effect.min.js"></script>
+</body>
 
 </html>

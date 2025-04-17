@@ -82,10 +82,20 @@ document.addEventListener("DOMContentLoaded", () => {
       }
   
       wordArray.push(letters);
-    }
+    } 
+
+    // AOS animation
+    AOS.init({
+      offset: 150,
+      duration: 500,
+      easing: 'ease-in-sine',
+      delay: 100
+    });
+
+    AOS.refresh();
   
     // Initialize the word change
     changeWord();
     setInterval(changeWord, 4000);
-  });
+});
   
