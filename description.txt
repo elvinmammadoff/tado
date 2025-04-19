@@ -1,0 +1,103 @@
+<div class="user-html user-html__with-lazy-load"><h3 id="item-description__tado-ecommerce-wedding-events-slider-template">TADO – eCommerce, Wedding, Events Slider Template</h3>
+<p><strong>TADO</strong> eCommerce, Wedding, Events Slider is an all-in-one package that includes unique style and functionality. It provides you customizable sliders to help create dynamic and engaging web pages. <br><br>With <strong>TADO</strong> you can quickly and easily add stunning slider to your website. It is easy to use, fully responsive and works seamlessly across all devices.<br><br>Choose from a variety of transition effects, control animations and customize everything from colors to fonts to create the perfect slider for your website.<br><br>Get <strong>TADO</strong> and take your website to the next level.</p>
+
+	<p><img src="https://camo.envatousercontent.com/13c69604a1f8772ac8a5115501e313127e4645a8/68747470733a2f2f6573736f2d736c696465722e6e65746c6966792e6170702f7372632f696d672f726174652e706e67" alt="rate-us"></p>
+
+
+<h3 id="item-description__why-choose-tado">Why choose TADO?</h3>
+<ul>
+<li>
+<strong>Completely Responsive Design</strong>
+<p>Optimized viewing on desktop, tablet and mobile devices.</p>
+</li>
+<li>
+<strong>Easy Customization</strong>
+<p>Customize each slide to meet your unique requirements and preferences.</p>
+</li>
+<li>
+<strong>Beautiful Appearance on Any Device</strong>
+<p>Great user experience on any screen size or resolution.</p>
+</li>
+<li>
+<strong>Advanced Animation Effects</strong>
+<p>Eye-catching transitions between slides.</p>
+</li>
+<li>
+<strong>Cross-Browser Compatibility</strong>
+<p>Seamless functionality on multiple browsers.</p>
+</li>
+<li>
+<strong>Fast Loading Speed</strong>
+<p>Optimized user experience with fast loading times.</p>
+</li>
+<li>
+<strong>User-Friendly Interface</strong>
+<p>Easy to use and navigate.</p>
+</li>
+</ul>
+<h3 id="item-description__other-features">Other Features</h3>
+<ul>
+
+<li>W3C HTML valid code</li>
+<li>Grid 1770 px</li>
+<li>Better Support (response within 24 hours)</li>
+<li>Free Regular Updates</li>
+<li>Well, Extensive Documentation</li>
+</ul>
+<h3 id="item-description__files-included">Files Included</h3>
+<ul>
+<li>HTML File</li>
+<li>Supporting CSS Files</li>
+<li>Supporting JS Files</li>
+
+<li>Documentation in HTML</li>
+</ul>
+<h3 id="item-description__3rd-party-libraries-used">3rd Party Libraries License</h3>
+<ul>
+<li>
+<a href="https://swiperjs.com/" rel="nofollow">Swiper 4.4.1</a> – is a free, modern JavaScript library for building touch sliders (Carousels) with hardware transitions and amazing native behaviors.
+</li>
+<li>
+<a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" rel="nofollow">Bootstrap 5.3.3</a> – is the free source code and released under the MIT license and is copyright 2024.
+</li>
+</ul>
+<h3 id="item-description__fonts-used">Fonts used:</h3>
+<ul>
+<li><a href="https://fonts.google.com/specimen/Nunito+Sans" rel="nofollow">Nunito Sans</a></li>
+<li><a href="https://fonts.google.com/specimen/Roboto" rel="nofollow">Roboto</a></li>
+<li><a href="https://fonts.google.com/specimen/Poppins" rel="nofollow">Poppins</a></li>
+<li><a href="https://www.dafontfree.io/tuesday-night-font-free/" rel="nofollow">Tuesday Night</a></li>
+</ul>
+<h3 id="item-description__images-license">Images License:</h3><p>Thank you so much to the artists and authors who gave their permission to use their amazing works! <strong>THANK YOU!</strong></p>
+<ul>
+<li>All images used are taken from <a href="https://pixabay.com/" rel="nofollow">Pixabay</a>. Pixabay is a vibrant community of authors, artists and creators sharing royalty-free images, video, audio and other media.
+</li>
+</ul>
+<h3 id="item-description__documentation">Documentation</h3>
+<a href="https://tado-slider.netlify.app/documentation/" rel="nofollow">Check the docs here</a>
+<h3 id="item-description__customization-services">Important Note:</h3>
+<ul>
+<li>All images are just used for Preview Purpose Only. They are not part of the HTML templates and are not included in the final purchase files.</li>
+<li>Images and videos shown on our demo site are not part of the template download package due to licensing limitations and hence we are providing placeholder images with recommended image size mentioned in it.</li>
+<li>Any type of code or CSS customization and feature addition/change is not part of item support scope as per Envato item <a href="https://themeforest.net/page/item_support_policy?_ga=2.233764957.275401607.1701770067-503905489.1698934107">support policy</a>.</li>
+<li>Included a documentation file for full instruction.</li>
+</ul>
+<h3 id="item-description__sources-and-credits">Sources and Credits</h3>
+<p><strong>Please note: the images that can be seen in the preview will not be included in the download package. These are for preview purposes only.</strong> Full credits list you can see on this page <a href="https://tado-slider.netlify.app/documentation/index.html#credits" rel="nofollow">link</a></p>
+<h3 id="item-description__thank-you">Thank you:</h3><p>Thank you so much for using this template. Your comments and ratings would be much appreciated. Please don’t forget RATE for us.</p><p>If you purchase this template, you will get support. We will update this template time by time and we want to hear your wishes for the future updates or for complete new templates.
+</p><p>We are grateful to you.
+</p><p><strong>– Alissio –</strong></p>
+
+<h3 id="item-description__change-log">Change Log:</h3>
+<p>V. 1.0.0 – 25.12.2024</p>
+<pre>- Initial release</pre>
+<p>If you love our product, Don’t forget to rate it 5 stars</p>
+<p>
+<img src="https://camo.envatousercontent.com/2e9aad3ba714779c98c6995cff55b9ac7b5d1095/68747470733a2f2f6573736f2d736c696465722e6e65746c6966792e6170702f7372632f696d672f737461722e706e67" alt="star">
+<img src="https://camo.envatousercontent.com/2e9aad3ba714779c98c6995cff55b9ac7b5d1095/68747470733a2f2f6573736f2d736c696465722e6e65746c6966792e6170702f7372632f696d672f737461722e706e67" alt="star">
+<img src="https://camo.envatousercontent.com/2e9aad3ba714779c98c6995cff55b9ac7b5d1095/68747470733a2f2f6573736f2d736c696465722e6e65746c6966792e6170702f7372632f696d672f737461722e706e67" alt="star">
+<img src="https://camo.envatousercontent.com/2e9aad3ba714779c98c6995cff55b9ac7b5d1095/68747470733a2f2f6573736f2d736c696465722e6e65746c6966792e6170702f7372632f696d672f737461722e706e67" alt="star">
+<img src="https://camo.envatousercontent.com/2e9aad3ba714779c98c6995cff55b9ac7b5d1095/68747470733a2f2f6573736f2d736c696465722e6e65746c6966792e6170702f7372632f696d672f737461722e706e67" alt="star"> 
+and let us know your feedback for a better update. Thank you
+<img src="https://camo.envatousercontent.com/db98b5dc27596fa29a156cc1388e6459deac0ea7/68747470733a2f2f6573736f2d736c696465722e6e65746c6966792e6170702f7372632f696d672f736d696c652e706e67" alt="happy">
+</p></div>
