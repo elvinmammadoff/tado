@@ -878,7 +878,6 @@ header .logo:hover {
     }
 
     .header_trans-fixed.header_top_bg .right-menu:not(.static) #topmenu > ul > li > a {
-        /*padding: 13px 0 13px;*/
         transform: translateZ(0);
     }
 
@@ -1720,7 +1719,6 @@ header .logo:hover {
 
     .right-menu .mob-nav .hamburger {
         display: inline-block;
-        /*width: 20px;*/
     }
     .right-menu .mob-nav .hamburger i {
         font-family: "Open Sans", sans-serif;
@@ -3615,12 +3613,7 @@ header .logo:hover {
 .main-wrapper .col-md-4 .sidebar-item .tado-recent-post-widget .recent-text a, .main-wrapper .col-md-3 .sidebar-item .tado-recent-post-widget .recent-text a,
 .recent-post-single .recent-title,
 .sm-wrap-post .content .title,
-    /*.pagination.cs-pager .page-numbers.next:after,*/
-    /*.pagination.cs-pager .page-numbers.prev:after,*/
-    /*.page-numbers:hover,.page-numbers:focus,*/
 .post-nav .pages, .post-nav .current, .pager-pagination .pages, .pager-pagination .current,
-    /*.single-pagination>div.pag-prev:hover::before,*/
-    /*.single-pagination>div.pag-next:hover::after,*/
 .single-pagination > div a.content,
 .post-details .date-post span, .post-details .author span,
 .post-details .link-wrap a,
@@ -3638,9 +3631,6 @@ header .logo:hover {
 .comments .person .author,
 .comments .comments-title, .comments .comments-title span,
 #contactform h3, .comments-form h3,
-    /*#contactform textarea,#contactform input:not([type="submit"]),.comments-form textarea,.comments-form input:not([type="submit"]),*/
-    /*#contactform #submit:hover,*/
-    /*.comments-form #submit:hover,*/
 .comment-form label,
 .comments.main label,
 .events-single-content .info-event-wrap .info-item .info a:hover,
@@ -3659,8 +3649,6 @@ code,
 kbd,
 caption,
 .wpb_text_column h1, .wpb_text_column h2, .wpb_text_column h3, .wpb_text_column h4, .wpb_text_column h5, .wpb_text_column h6,
-    /*.error404 .hero-inner .search input[type="submit"]:hover,*/
-    /*.error404 .hero-inner .search input:not([type="submit"]):focus,*/
 .error404 .main-wrapper.unit .vertical-align a, .error404 .main-wrapper.unit .vertical-align .a-btn,
 .sidebar-item ul li a,
 .sidebar-item input,
@@ -3670,11 +3658,8 @@ caption,
 .col-md-4 .sidebar-item.widget_rss a.rsswidget, .col-md-3 .sidebar-item.widget_rss a.rsswidget,
 .col-md-4 .sidebar-item.widget_rss cite, .col-md-3 .sidebar-item.widget_rss cite,
 .col-md-3 .ContactWidget .contact_url, .col-md-3 .ContactWidget div.contact_content, .col-md-3 .ContactWidget a.fa, .col-md-3 .tadoInstagramWidget, .col-md-4 .ContactWidget .contact_url, .col-md-4 .ContactWidget div.contact_content, .col-md-4 .ContactWidget a.fa, .col-md-4 .tadoInstagramWidget,
-    /*.widget_product_search form::after,.widget_search form div::after,*/
 .sidebar-item span.product-title,
 dt,
-    /*.protected-page form input:not([type="submit"]),*/
-    /*.protected-page form input[type="submit"]:hover,*/
 .unit strong, .unit b,
 .no-menu > a,
 .tado-shop-main-banner ul li a,
@@ -3984,66 +3969,6 @@ canvas,
     background-color: #222;
 }
 
-.page-numbers:hover, .page-numbers:focus,
-.post-nav .pages, .post-nav .current, .pager-pagination .pages, .pager-pagination .current,
-#contactform #submit,
-.comments-form #submit,
-.post-info .single-tags a:hover,
-.bottom-infopwrap .single-tags a:hover,
-.user-info-wrap .single-tags a:hover,
-.main-top-content .single-tags a:hover,
-.post-details .link-wrap .single-tags a:hover,
-#contactform textarea:focus,
-#contactform input:not([type="submit"]):focus,
-.comments-form textarea:focus,
-.comments-form input:not([type="submit"]):focus,
-.error404 .hero-inner .search input:not([type="submit"]),
-.protected-page form input[type="submit"],
-.a-btn,
-.a-btn-2:hover,
-.a-btn-3:hover,
-button, html input[type=button], input[type=reset], input[type=submit],
-.error404 .hero-inner .search input[type="submit"],
-.sidebar-item input:focus,
-.protected-page form input:not([type="submit"]):focus,
-body table.booked-calendar td.today .date span,
-.woocommerce div.product form.cart .button,
-.woocommerce-page.woocommerce-cart .woocommerce input.button,
-.woocommerce-page.woocommerce-checkout .woocommerce input.button,
-.woocommerce #respond input#submit,
-.woocommerce a.button, .woocommerce a.button.alt,
-.woocommerce button.button, .woocommerce input.button,
-.single-product .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit,
-.tado_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit,
-.woocommerce form.login .form-row input[type="submit"]:focus,
-.woocommerce form.login .form-row input[type="submit"]:visited,
-.woocommerce form.login .form-row input[type="submit"]:active,
-.woocommerce form.login .form-row input[type="submit"],
-.woocommerce form.login .form-row input[type="submit"]:focus,
-.woocommerce form.login .form-row input[type="submit"]:visited,
-.woocommerce form.login .form-row input[type="submit"]:active,
-.woocommerce form.login .form-row input[type="submit"],
-.woocommerce form .form-row.woocommerce-validated .select2-container,
-.woocommerce form .form-row.woocommerce-validated input.input-text,
-.woocommerce form .form-row.woocommerce-validated select,
-.single-product .product .woocommerce-Reviews #review_form_wrapper input:focus,
-.tado_product_detail .product .woocommerce-Reviews #review_form_wrapper input:focus,
-.single-product .product .woocommerce-Reviews #review_form_wrapper textarea:focus,
-.tado_product_detail .product .woocommerce-Reviews #review_form_wrapper textarea:focus,
-.single-product div.product .woocommerce-tabs ul.tabs.wc-tabs li.active a,
-.tado_product_detail div.product .woocommerce-tabs ul.tabs.wc-tabs li.active a,
-.woocommerce-account .woocommerce-MyAccount-navigation ul li a:hover,
-.contacts-info-wrap .form input[type="submit"],
-.video.only-button .video-content .play,
-.form.btn-style-1 input[type=submit],
-.form.btn-style-2 input[type=submit]:hover,
-.form.btn-style-3 input[type=submit]:hover,
-.contacts-info-wrap .form input:not([type="submit"]):focus, .contacts-info-wrap .form textarea:focus,
-.flex-control-paging li,
-.woocommerce-account .woocommerce-MyAccount-navigation ul li a {
-    /* border-color: #222; */
-}
-
 .error404 .main-wrapper.unit .vertical-align .a-btn::after {
     border-left-color: #222;
 }
@@ -4089,210 +4014,8 @@ body table.booked-calendar td.today:hover .date span {
     background-image: linear-gradient(to right, transparent 50%, #222 50%);
 }
 
-/* .a-btn-2,
-.a-btn-3,
-.form.btn-style-3 input[type=submit],
-.form.btn-style-2 input[type=submit] {
-    background-image: -webkit-gradient(linear, left top, right top, color-stop(50%, #222), color-stop(50%, transparent));
-    background-image: linear-gradient(to right, #222 50%, transparent 50%);
-} */
-
 
 /* ======= LIGHT COLOR ======= */
-
-.post-little-banner.empty-post-list input[type="submit"],
-.post-media .video-content .play:hover::before,
-.post-media .close,
-.post.center-style.format-gallery .flex-prev i,
-.post.center-style.format-gallery .flex-next i,
-.post.center-style.format-post-slider .flex-prev i,
-.post.center-style.format-post-slider .flex-next i,
-.post.center-style.format-link .category a:hover,
-.post.center-style.format-link .date a:hover,
-.post.center-style.format-post-link .category a:hover,
-.post.center-style.format-post-link .date a:hover,
-.post.center-style.format-link .link-wrap,
-.post.center-style.format-post-link .link-wrap,
-.post.center-style.format-link .link-wrap a,
-.post.center-style.format-post-link .link-wrap a,
-.post.metro-style .info-wrap .category a,
-.post.metro-style.format-video .video-content .play:hover::before,
-.post.metro-style.format-post-video .video-content .play:hover::before,
-.post.metro-style.format-link .link-wrap a,
-.post.metro-style.format-post-link .link-wrap a,
-.post.metro-style.format-gallery .flex-prev:hover,
-.post.metro-style.format-gallery .flex-next:hover,
-.post.metro-style.format-post-slider .flex-prev:hover,
-.post.metro-style.format-post-slider .flex-next:hover,
-.post-content h5,
-.post-content .date,
-.post-wrap-item.text .post-content i,
-.post-wrap-item.text .post-content blockquote,
-.single-post .single-content .img-slider .flex-prev i, .single-post .single-content .img-slider .flex-next i,
-.main-wrapper .col-md-4 .sidebar-item.widget_tag_cloud a, .main-wrapper .col-md-3 .sidebar-item.widget_tag_cloud a,
-.post-details .single-categories a,
-.post-info .single-tags a:hover, .bottom-infopwrap .single-tags a:hover, .user-info-wrap .single-tags a:hover, .main-top-content .single-tags a:hover, .post-details .link-wrap .single-tags a:hover,
-#contactform #submit,
-.comments-form #submit,
-.events-single-content .end-event,
-.events-single-content.protected-page .input_protected_wrapper::after, .single-portfolio .protected-page .input_protected_wrapper::after,
-.events-single-content.protected-page input[type="submit"], .single-portfolio .protected-page input[type="submit"],
-.item .item-img .end-event,
-.iframe-video .video-close-button,
-.events-single-content .iframe-video .video-content span, .events-single-content .iframe-video .video-content a,
-.event-post-box .flex-prev:hover, .event-post-box .flex-next:hover,
-.text-light a,
-.text-light p,
-.mb_YTPPlaypause:before,
-.text-light,
-.highlight,
-.a-btn,
-.a-btn:focus,
-.a-btn-2,
-.a-btn-2:hover,
-.a-btn-3:hover,
-.a-btn-4,
-button, html input[type=button], input[type=reset], input[type=submit],
-mark, ins,
-.col-md-4 .widget_tag_cloud a, .col-md-3 .widget_tag_cloud a,
-.error404 .hero-inner .bigtext,
-.error404 .hero-inner .title,
-.error404 .hero-inner .subtitle,
-.error404 .hero-inner .search input[type="submit"],
-.protected-page form input[type="submit"],
-.portfolio .item-overlay > h5,
-.woocommerce div.product form.cart .button,
-.woocommerce ul.products li.product .tado-prod-list-image .tado-add-to-cart a,
-.input_shop_wrapper:hover,
-.woocommerce ul.products li.product .tado_product_list_name .count,
-.single-product .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit,
-.tado_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit,
-.tado_cart.shop_table .complement-cart .coupon .input-text.button,
-.woocommerce form .form-row select.button, .woocommerce form .form-row input.button,
-.woocommerce form.login .form-row input[type="submit"]:focus,
-.woocommerce form.login .form-row input[type="submit"]:visited,
-.woocommerce form.login .form-row input[type="submit"]:active,
-.woocommerce form.login .form-row input[type="submit"],
-.woocommerce .woocommerce-error li strong,
-.woocommerce form.login .form-row input[type="submit"]:focus,
-.woocommerce form.login .form-row input[type="submit"]:visited,
-.woocommerce form.login .form-row input[type="submit"]:active,
-.woocommerce form.login .form-row input[type="submit"],
-.woocommerce-account .woocommerce-MyAccount-navigation ul li a:hover,
-.woocommerce-account .woocommerce-MyAccount-navigation ul li.is-active a,
-.woocommerce .woocommerce-message, .woocommerce .woocommerce-info,
-.woocommerce .woocommerce-error,
-.woocommerce .woocommerce-message a:not(.button), .woocommerce .woocommerce-info a:not(.button),
-.woocommerce .woocommerce-error a:not(.button),
-.woocommerce .woocommerce-message:before, .woocommerce .woocommerce-info:before,
-.woocommerce .woocommerce-error:before,
-.woocommerce .woocommerce-message a.button,
-.woocommerce .woocommerce-info a.button,
-.woocommerce .woocommerce-error a.button,
-.woocommerce-page.woocommerce-cart .woocommerce input.button,
-.woocommerce-page.woocommerce-checkout .woocommerce input.button,
-.woocommerce #respond input#submit, .woocommerce a.button,
-.woocommerce a.button.alt, .woocommerce button.button,
-.woocommerce input.button,
-.shop-list-page .on-new,
-.simple_gallery .flex-prev i, .simple_gallery .flex-next i,
-.alia .banner-wrap .title,
-.menio .banner-wrap .title,
-.menio .banner-wrap .social-list li a,
-.grid .caption, .masonry .caption,
-.headings.text_left .title,
-.top-banner .title,
-.top-banner .sub-title,
-.top-banner .descr,
-.top-banner.classic .title,
-.insta-wrapper.style2 a:not(.insta-item):hover,
-.team-members-wrap.slider_modern .team-member .social a,
-.iframe-video.banner-video .title,
-.iframe-video.banner-video .video-content span,
-.iframe-video .video-close-button,
-.banner-slider-wrap .swiper-pagination span,
-.banner-slider-wrap.vertical .title,
-.banner-slider-wrap.myro .content-wrap .subtitle,
-.banner-slider-wrap.myro .content-wrap .title,
-.banner-slider-wrap.myro .swiper-pagination span,
-.banner-slider-wrap.myro .swiper-pagination .swiper-pagination-total,
-.banner-slider-wrap.urban .title,
-.banner-slider-wrap.urban .subtitle,
-.banner-slider-wrap.urban .text,
-.banner-slider-wrap.urban .pag-wrapper .swiper-pagination,
-.banner-slider-wrap.urban .pag-wrapper .swiper-pagination-current,
-.banner-slider-wrap.urban .pag-wrapper .swiper-pagination-total,
-.banner-slider-wrap.urban .pag-wrapper .swiper-button-next, .banner-slider-wrap.urban .pag-wrapper .swiper-button-prev,
-.coming-page-wrapper .title,
-.coming-page-wrapper .subtitle,
-.coming-page-wrapper div.wpcf7-mail-sent-ok, .coming-page-wrapper div.wpcf7-validation-errors, .coming-page-wrapper div.wpcf7-acceptance-missing,
-.coming-soon-descr,
-.form.btn-style-1 input[type=submit],
-.form.btn-style-2 input[type=submit],
-.form.btn-style-2 input[type=submit]:hover,
-.form.btn-style-3 input[type=submit]:hover,
-.form.btn-style-4 input[type=submit],
-.contacts-info-wrap .form input[type="submit"],
-.contacts-info-wrap.custom_info .additional-content-wrap,
-.contacts-info-wrap.custom_info .additional-content-wrap .content-item a, .contacts-info-wrap.custom_info .additional-content-wrap .content-item div,
-.contacts-info-wrap.custom_info .additional-content-wrap .text,
-.contacts-info-wrap.custom_info .additional-content-wrap .text p,
-.contacts-info-wrap.custom_info .additional-content-wrap .title,
-.wpcf7 .input_protected_wrapper input,
-.form.btn-style-2 .input_protected_wrapper:hover input,
-.form.btn-style-3 .input_protected_wrapper input,
-.disortion-wrap .scene-nav,
-.event-post-box .end-event,
-.exhibition-wrap .btn::before,
-.exhibition-wrap .btn--toggle.btn--active,
-.exhibition-wrap .slide__name,
-.exhibition-wrap .slide__title > div,
-.exhibition-wrap .cat a,
-.full_screen_slider .swiper-arrow-left, .full_screen_slider .swiper-arrow-right,
-.full_screen_slider .slider-click,
-.full_screen_slider .slider-click.left .arrow::before,
-.full_screen_slider .slider-click.right .arrow::before,
-.tado-sound-btn:before,
-.glitch-wrapper.style-1 .title,
-.glitch-wrapper.style-1 .text,
-.glitch-wrapper.style-2 .title,
-.headings.text_left .title,
-.insta-wrapper.style2 a:not(.insta-item):hover,
-.trans-slider .page-view .project .text h1,
-.trans-slider .page-view .project .text p,
-.trans-slider .page-view .arrows .arrow,
-.gallery-masonry .text-hover h1,
-.slide-nav__text:hover, .slide-nav__text:focus,
-.kenburns-wrap .but-eye-wrap i,
-.kenburns-wrap .caption,
-.kenburns-wrap .tado-sound-btn:before,
-.kenburns-play::before,
-.page-wrapper a span:hover,
-.physics-banner .title,
-.physics-banner .subtitle,
-.parallax-showcase-wrapper .title,
-.parallax-showcase-wrapper .desc,
-.distortion__title,
-.distortion__text,
-.urban_slider .slick-arrow:hover,
-.interactive-slider.tabs li.active div,
-.interactive-slider.tabs a,
-.interactive-slider.tabs a:hover div,
-.showcase_slider .slide-title,
-.landing_split .content-wrap .portfolio-title,
-.landing_split .content-wrap .excerpt,
-.swiper-container-vert-slider .swiper-slide .container .wrap-text,
-.swiper-container-vert-slider .swiper-slide .container .wrap-text .subtitle,
-.swiper-container-vert-slider .swiper-button::before,
-.portfolio-slider-wrap.slider_classic .content-wrap .categories,
-.portfolio-slider-wrap.slider_classic .content-wrap .portfolio-title,
-.portfolio-slider-wrap.slider_classic .content-wrap .excerpt p,
-.swiper-album .swiper-slide .link-album-slide .title-wrap .title,
-.service-list-wrapper .img-wrap a,
-.video.only-button .video-content .play::before,
-.video.only-button .close {
-    /* color: #222; */
-}
 
 ::-moz-selection,
 ::selection,
@@ -4566,7 +4289,6 @@ body,
     font-size: 12px;
     display: inline-block;
     padding: 10px 30px;
-    /* border: 1px solid; */
     font-size: 12px;
     font-weight: 600;
     line-height: 2;
@@ -4953,9 +4675,7 @@ div.wpcf7 .ajax-loader {
 .kenburns {
     height: 100vh!important;
 }
-.
 .modern-page .menu-item-label-hot {
-    /* bottom: -3px; */
     position: absolute;
 }
 .cencel {
