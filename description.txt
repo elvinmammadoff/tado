@@ -1,12 +1,9 @@
 <div class="user-html user-html__with-lazy-load"><h3 id="item-description__tado-cafe-wedding-kindergarten-and-business-slider-template">TADO – Cafe, Wedding, Kindergarten and Business Slider Template</h3>
 <p><strong>TADO</strong> Cafe, Wedding, Kindergarten and Business Slider is an all-in-one package that includes unique style and functionality. It provides you customizable sliders to help create dynamic and engaging web pages.</p>
 
-<p><a href="https://tado-slider.netlify.app/documentation/" rel="nofollow" target="_blank">
-<img src="https://tado-slider.netlify.app/documentation.png" alt="Tado - Documentation Slider Template"></a>
-<a href="https://themeforest.net/user/alissio/follow">
-<img src="https://tado-slider.netlify.app/follow-us.png" alt="Tado - Follow Us"></a></p>
+<p><a href="https://tado-slider.netlify.app/documentation/" rel="nofollow" target="_blank"><img src="https://tado-slider.netlify.app/documentation.png" alt="Tado - Documentation Slider Template"></a><a href="https://themeforest.net/user/alissio/follow"><img src="https://tado-slider.netlify.app/follow-us.png" alt="Tado - Follow Us"></a></p>
 
-<p><img src="https://tado-slider.netlify.app/Tado-Showcase.png" alt="rate-us"></p>
+<p><img src="https://tado-slider.netlify.app/Tado-Showcase.png" alt="TADO - Showcase"></p>
 
 <p>With <strong>TADO</strong> you can quickly and easily add stunning slider to your website. It is easy to use, fully responsive and works seamlessly across all devices.<br><br>Choose from a variety of transition effects, control animations and customize everything from colors to fonts to create the perfect slider for your website.<br><br>Get <strong>TADO</strong> and take your website to the next level.</p>
 
@@ -41,23 +38,27 @@
 <p>Easy to use and navigate.</p>
 </li>
 </ul>
-<h3 id="item-description__other-features">Other Features</h3>
+<h3 id="item-description__tado-key-features">TADO Key Features</h3>
 <ul>
-
-<li>Bootstrap 5.3.3</li>
-<li>Swiper Slider 4.4.1</li>
-<li>W3C HTML valid code</li>
-<li>Grid 1140 px</li>
-<li>Better Support (response within 24 hours)</li>
-<li>Free Regular Updates</li>
-<li>Well, Extensive Documentation</li>
+<li>Build with Bootstrap 5.3.3</li>
+<li>Supported Swiper Slider 4.4.1</li>
+<li>W3 Valid code 100%</li>
+<li>Fast Loading Speed</li>
+<li>Developer Friendly Code</li>
+<li>Well Documented Code</li>
+<li>Cross Browser Support</li>
+<li>Modern Design</li>
+<li>Google Fonts</li>
+<li>It’s very easy to use</li>
+<li>Better Dedicated Support (response within 24 hours)</li>
+<li>Free Regular Lifetime Updates</li>
+<li>And much more …</li>
 </ul>
-<h3 id="item-description__files-included">Files Included</h3>
+<h3 id="item-description__included-in-the-purchase-packagee">Included in the purchase package</h3>
 <ul>
-<li>HTML File</li>
-<li>Supporting CSS Files</li>
-<li>Supporting SCSS Files</li>
-<li>Supporting JS Files</li>
+<li>HTML Files</li>
+<li>Supporting CSS, SCSS, JS Files</li>
+<li>Premium Image Included in package</li>
 <li>Documentation in HTML</li>
 </ul>
 <h3 id="item-description__3rd-party-libraries-used">3rd Party Libraries License</h3>
@@ -83,27 +84,17 @@
 <a href="https://tado-slider.netlify.app/documentation/" rel="nofollow" target="_blank">Check the docs here</a>
 <h3 id="item-description__customization-services">Important Note:</h3>
 <ul>
-<li>All images are just used for Preview Purpose Only. They are not part of the HTML templates and are not included in the final purchase files.</li>
-<li>Images and videos shown on our demo site are not part of the template download package due to licensing limitations and hence we are providing placeholder images with recommended image size mentioned in it.</li>
-<li>Any type of code or CSS customization and feature addition/change is not part of item support scope as per Envato item <a href="https://themeforest.net/page/item_support_policy?_ga=2.233764957.275401607.1701770067-503905489.1698934107" target="_blank">support policy</a>.</li>
+<li>All images & videos are used for preview demo purposes, But premium images are <strong>INCLUDED</strong> in the purchase package.</li>
+<li>Envato item scope <a href="https://themeforest.net/page/item_support_policy?_ga=2.233764957.275401607.1701770067-503905489.1698934107" target="_blank">support policy</a>.</li>
 <li>Included a documentation file for full instruction.</li>
 </ul>
 <h3 id="item-description__sources-and-credits">Sources and Credits</h3>
-<p><strong>Please note: the images that can be seen in the preview will not be included in the download package. These are for preview purposes only.</strong> Full credits list you can see on this page <a href="https://tado-slider.netlify.app/documentation/index.html#credits" rel="nofollow" target="_blank">link</a></p>
-<h3 id="item-description__thank-you">Thank you:</h3><p>Thank you so much for using this template. Your comments and ratings would be much appreciated. Please don’t forget RATE for us.</p><p>If you purchase this template, you will get support. We will update this template time by time and we want to hear your wishes for the future updates or for complete new templates.
-</p><p>We are grateful to you.
-</p><p><strong>– Alissio –</strong></p>
+<p><strong>Please note again: the images that can be seen in the preview are for demo purposes. But premium images are included in the purchase package.</strong> Full credits list you can see on this page <a href="https://tado-slider.netlify.app/documentation/index.html#credits" rel="nofollow" target="_blank">link</a></p>
+<h3 id="item-description__thank-you">Thank you:</h3><p>Thank you so much for using this template. Your comments and ratings would be much appreciated.</p><p>If you purchase this template, you will get support. We will update this template time by time and we want to hear your wishes for the future updates or for complete new templates.
+</p>
 
-<h3 id="item-description__change-log">Change Log:</h3>
+<p><img src="https://tado-slider.netlify.app/rate-us.png" alt="rate-us"></p>
+
+<h3 id="item-description__change-log">Change Log</h3>
 <p>V. 1.0.0 – 20.04.2025</p>
-<pre>- Initial release</pre>
-<p>If you love our product, Don’t forget to rate it 5 stars</p>
-<p>
-<img src="https://camo.envatousercontent.com/2e9aad3ba714779c98c6995cff55b9ac7b5d1095/68747470733a2f2f6573736f2d736c696465722e6e65746c6966792e6170702f7372632f696d672f737461722e706e67" alt="star">
-<img src="https://camo.envatousercontent.com/2e9aad3ba714779c98c6995cff55b9ac7b5d1095/68747470733a2f2f6573736f2d736c696465722e6e65746c6966792e6170702f7372632f696d672f737461722e706e67" alt="star">
-<img src="https://camo.envatousercontent.com/2e9aad3ba714779c98c6995cff55b9ac7b5d1095/68747470733a2f2f6573736f2d736c696465722e6e65746c6966792e6170702f7372632f696d672f737461722e706e67" alt="star">
-<img src="https://camo.envatousercontent.com/2e9aad3ba714779c98c6995cff55b9ac7b5d1095/68747470733a2f2f6573736f2d736c696465722e6e65746c6966792e6170702f7372632f696d672f737461722e706e67" alt="star">
-<img src="https://camo.envatousercontent.com/2e9aad3ba714779c98c6995cff55b9ac7b5d1095/68747470733a2f2f6573736f2d736c696465722e6e65746c6966792e6170702f7372632f696d672f737461722e706e67" alt="star"> 
-and let us know your feedback for a better update. Thank you
-<img src="https://camo.envatousercontent.com/db98b5dc27596fa29a156cc1388e6459deac0ea7/68747470733a2f2f6573736f2d736c696465722e6e65746c6966792e6170702f7372632f696d672f736d696c652e706e67" alt="happy">
-</p></div>
+<pre>- Initial release</pre></div>
