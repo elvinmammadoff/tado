@@ -1,0 +1,23 @@
+# Netlify config for the Tado Slider plugin preview site.
+# Deploy this `plugin/` folder as the site's publish directory so it serves
+# at the site root (and, when mounted under a path, at /plugin/).
+
+[build]
+  publish = "."
+
+# Long-cache static assets (images, css, js) — they are versioned by edit.
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+# Pretty-URL: allow /features and /demos without the .html extension.
+[[redirects]]
+  from = "/features"
+  to = "/features.html"
+  status = 200
+
+[[redirects]]
+  from = "/demos"
+  to = "/demos.html"
+  status = 200

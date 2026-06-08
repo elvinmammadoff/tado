@@ -1,0 +1,6 @@
+# Pretty URLs (extensionless)
+/features    /features.html    200
+/demos       /demos.html       200
+
+# Fallback: unknown paths return the home page with a 404 status
+/*           /index.html       404
